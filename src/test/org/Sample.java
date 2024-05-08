@@ -7,5 +7,9 @@ public class Sample {
 		System.out.println(3);
 		System.out.println(4);
 	}
+private void Name() {
+System.out.println("hari");
+System.out.println("praveen");
 
+}
 }
