@@ -7,5 +7,9 @@ public class Sample {
 		System.out.println(3);
 		System.out.println(4);
 	}
+private void Password() {
+	System.out.println("hari@123");
+	System.out.println("praveen@123");
 
+}
 }
