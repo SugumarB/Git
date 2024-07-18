@@ -17,4 +17,8 @@ public class Sample {
 		System.out.println("hari@123");
 		System.out.println("praveen@123");
 	}
+	private void mail() {
+		System.out.println("hari@gail.com");
+		System.out.println("praveen@gmail.com");
+	}
 }
